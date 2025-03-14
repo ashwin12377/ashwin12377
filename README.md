@@ -1,4 +1,5 @@
-
+<h1>Hi 👋, I'm Ashwin Shetty</h1>
+<p>DevOps Enthusiast with a Passion for Software Development.</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwin-shetty-264528217/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ashwin Shetty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinbshetty373@gmail.com) 
 
