@@ -2,13 +2,10 @@
 <p>DevOps Enthusiast with a Passion for Software Development.</p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwin-shetty-264528217/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinbshetty373@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237135FA.svg?logo=internet-explorer&logoColor=white)](https://ashwinshetty.site/)
-
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat-square" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="35" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat-square" height="35" alt="portfolio logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo" style="border-radius: 8px;" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo" style="border-radius: 8px;" />
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat" height="35" alt="portfolio logo" style="border-radius: 8px;" />
 </div>
 
 # 💻 Tech Stack:
