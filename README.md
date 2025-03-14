@@ -3,14 +3,14 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="mailto:ashwinbshetty373@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" style="border-radius: 8px;" />
+  <a href="mailto:ashwinbshetty373@gmail.com" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" style="border-radius: 8px; display: block;" />
   </a>
-  <a href="https://www.linkedin.com/in/ashwin-shetty-264528217/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" style="border-radius: 8px;" />
+  <a href="https://www.linkedin.com/in/ashwin-shetty-264528217/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" style="border-radius: 8px; display: block;" />
   </a>
-  <a href="https://ashwinshetty.site/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=6A0DAD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" style="border-radius: 8px;" />
+  <a href="https://ashwinshetty.site/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=6A0DAD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" style="border-radius: 8px; display: block;" />
   </a>
 </div>
 
