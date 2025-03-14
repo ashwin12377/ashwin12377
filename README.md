@@ -6,9 +6,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%237135FA.svg?logo=internet-explorer&logoColor=white)](https://ashwinshetty.site/)
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=6A0DAD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat-square" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="35" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=6A0DAD&logoColor=white&labelColor=&style=flat-square" height="35" alt="portfolio logo" />
 </div>
 
 # 💻 Tech Stack:
